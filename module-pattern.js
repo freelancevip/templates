@@ -3,8 +3,8 @@ var MyModule = function () {
 	var myPrivateVar = "Private property";
 	
 	var myPrivateMethod = function() {
-        console.log(myPrivateVar);
-    }
+		console.log(myPrivateVar);
+	}
 	
 	var module = {};
 
